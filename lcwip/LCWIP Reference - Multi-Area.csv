@@ -1,0 +1,17 @@
+﻿District,WKT,UniqueID,Entity Type,Scheme Name,Stage,Mode,LocalMember,Location Category,Local Member
+Multi-Area,Point (-3.38628995 50.85861017),SCHEME_Cullompton Town Centre Relief Road,SCHEME,Cullompton Town Centre Relief Road,Construction,Highway,,Scheme - With Location,Cllr James Buczkowski
+Multi-Area,Point (-3.52014077 50.70614132),SCHEME_E12 Signage,SCHEME,E12 Signage,Detailed design,Active Travel,,Scheme - With Location,Multiple
+Multi-Area,Point (-3.85 50.75),SCHEME_School Crossings Package,SCHEME,School Crossings Package,Strategic definition,Active Travel,,Scheme (No Locations),Multiple
+Multi-Area,Point (-3.85 50.75),SCHEME_Road Safety School Gate Improvement Pot,SCHEME,Road Safety School Gate Improvement Pot,Strategic definition,Multi-modal,,Scheme (No Locations),Multiple
+Multi-Area,Point (-3.85 50.75),SCHEME_Countywide and School Cycle Parking,SCHEME,Countywide and School Cycle Parking,Project development,Active Travel,,Scheme (No Locations),Multiple
+Multi-Area,Point (-3.85 50.75),SCHEME_20 MPH Schemes,SCHEME,20 MPH Schemes,Strategic definition,Highway,,Scheme (No Locations),Multiple
+Multi-Area,Point (-3.85 50.75),SCHEME_Countywide LCWIP,SCHEME,Countywide LCWIP,Strategic definition,Active Travel,,Scheme (No Locations),Multiple
+Multi-Area,Point (-3.85 50.75),SCHEME_Decarbonisation of Buses (part-funded),SCHEME,Decarbonisation of Buses (part-funded),Strategic definition,Bus,,Scheme (No Locations),Multiple
+Multi-Area,Point (-3.85 50.75),SCHEME_Additional / Replacement Bus Shelters,SCHEME,Additional / Replacement Bus Shelters,Strategic definition,Bus,,Scheme (No Locations),Multiple
+Multi-Area,Point (-3.85 50.75),SCHEME_Lighting and CCTV at Key Interchanges,SCHEME,Lighting and CCTV at Key Interchanges,Strategic definition,Bus,,Scheme (No Locations),Multiple
+Multi-Area,Point (-3.85 50.75),SCHEME_Bus Stop Infrastructure,SCHEME,Bus Stop Infrastructure,Strategic definition,Bus,,Scheme (No Locations),Multiple
+Multi-Area,Point (-3.85 50.75),SCHEME_Decarbonisation of Buses (fully-funded),SCHEME,Decarbonisation of Buses (fully-funded),Strategic definition,Bus,,Scheme (No Locations),Multiple
+Multi-Area,Point (-3.85 50.75),SCHEME_Multi-Operator Ticketing Set-Up,SCHEME,Multi-Operator Ticketing Set-Up,Strategic definition,Bus,,Scheme (No Locations),Multiple
+Multi-Area,Point (-3.85 50.75),SCHEME_Real Time Info,SCHEME,Real Time Info,Strategic definition,Bus,,Scheme (No Locations),Multiple
+Multi-Area,Point (-3.85 50.75),SCHEME_Electric Infrastructure,SCHEME,Electric Infrastructure,Strategic definition,Bus,,Scheme (No Locations),Multiple
+Multi-Area,Point (-3.85 50.75),SCHEME_Pinch Point Schemes,SCHEME,Pinch Point Schemes,Strategic definition,Bus,,Scheme (No Locations),Multiple
